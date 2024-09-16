@@ -18,8 +18,8 @@ This project provides a comprehensive analysis of GC content and Open Reading Fr
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/insulin-protein-analyzer.git
-   cd insulin-protein-analyzer
+   git clone https://github.com/winniecook/insulin-comparison.git
+   cd insulin-comparison
    ```
 
 2. Install the required dependencies:
