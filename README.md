@@ -29,11 +29,11 @@ This project provides a comprehensive analysis of GC content and Open Reading Fr
 
 ## Usage
 
-1. Open the `comparative_protein_analyzer.py` file and replace `"your_email@example.com"` with your actual email address (required for NCBI E-utilities).
+1. Open the `dna-sequence-analyzer-6.py` file and replace `"your_email@example.com"` with your actual email address (required for NCBI E-utilities).
 
 2. Run the script:
    ```
-   python comparative_protein_analyzer.py
+   python dna-sequence-analyzer-6.py
    ```
 
 3. The script will generate two PNG files:
